@@ -1,5 +1,5 @@
 
-# AI Customer Support Coaching Assistant
+# Development of AI-Powered Customer Support Assistant with Live Response Guidance
 
 An AI-powered real-time customer support coaching platform that helps customer service representatives improve response quality during live text-based support interactions.
 
